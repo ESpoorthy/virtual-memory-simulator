@@ -288,6 +288,11 @@ class InteractiveDemo:
         print("  • Performance Analysis: python performance_analyzer.py")
         
         print(f"\n🌟 Thank you for learning about virtual memory!")
+        
+        print(f"\n{'═' * 60}")
+        print(f"   Made with ❤️  for Computer Science Education")
+        print(f"   Helping students master OS concepts through interactive learning")
+        print(f"{'═' * 60}")
 
 def main():
     """Run the interactive demo"""

@@ -224,6 +224,11 @@ def main():
         print("⚠️  Some accuracy tests failed. Please review the implementation.")
     
     print("🏁 Test suite completed!")
+    
+    print(f"\n{'═' * 60}")
+    print(f"   Made with ❤️  for reliable educational software")
+    print(f"   Ensuring quality through comprehensive testing")
+    print(f"{'═' * 60}")
 
 if __name__ == "__main__":
     main()

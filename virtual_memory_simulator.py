@@ -539,6 +539,12 @@ def main():
         
         print(f"✅ Session completed successfully!")
         
+        # Made with love message
+        print(f"\n{'═' * 68}")
+        print(f"   Made with ❤️  for Computer Science Education")
+        print(f"   Empowering students to master virtual memory concepts")
+        print(f"{'═' * 68}")
+        
     except KeyboardInterrupt:
         print(f"\n\n❌ Simulation interrupted by user.")
         sys.exit(0)

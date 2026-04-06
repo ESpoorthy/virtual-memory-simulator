@@ -261,6 +261,11 @@ def main():
     
     print(f"\n🎉 Performance analysis completed!")
     print(f"📊 Check 'performance_report.md' for detailed results")
+    
+    print(f"\n{'═' * 55}")
+    print(f"   Made with ❤️  for performance excellence")
+    print(f"   Optimizing algorithms through detailed analysis")
+    print(f"{'═' * 55}")
 
 if __name__ == "__main__":
     main()

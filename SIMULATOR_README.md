@@ -195,4 +195,16 @@ This project is open source and available under the MIT License.
 
 ---
 
+<div align="center">
+
+**Made with ❤️ for Computer Science Education**
+
+*Dedicated to helping students understand virtual memory concepts through hands-on learning*
+
+🎓 **Educational Excellence** • 💻 **Interactive Learning** • 🚀 **Open Source Innovation**
+
+</div>
+
+---
+
 **🎓 Perfect for**: Operating Systems courses, Computer Science students, Algorithm analysis, Memory management education
