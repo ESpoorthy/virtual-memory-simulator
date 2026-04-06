@@ -278,12 +278,12 @@ This project is open source and available under the MIT License.
 
 </div>
 
-| Roll Number | Name | Role |
-|-------------|------|------|
-| **24WH1A6633** | **SAI SPOORTHY ETURU** | Team Lead & Core Developer |
-| **24WH1A6642** | **NITHYA KOGANTI** | Algorithm Implementation |
-| **24WH1A6634** | **ALLA NAVYA SUSHMA SRI** | Web Interface Design |
-| **24WH1A6640** | **THOTA SHIVASRI** | Testing & Documentation |
+| Roll Number | Name |
+|-------------|------|
+| **24WH1A6633** | **SAI SPOORTHY ETURU** |
+| **24WH1A6642** | **NITHYA KOGANTI** |
+| **24WH1A6634** | **ALLA NAVYA SUSHMA SRI** |
+| **24WH1A6640** | **THOTA SHIVASRI** |
 
 <div align="center">
 

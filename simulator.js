@@ -5,10 +5,10 @@
 // Licensed under the MIT License - see LICENSE file for details.
 //
 // Team Members:
-// - SAI SPOORTHY ETURU (24WH1A6633) - Team Lead & Core Developer
-// - NITHYA KOGANTI (24WH1A6642) - Algorithm Implementation
-// - ALLA NAVYA SUSHMA SRI (24WH1A6634) - Web Interface Design
-// - THOTA SHIVASRI (24WH1A6640) - Testing & Documentation
+// - SAI SPOORTHY ETURU (24WH1A6633)
+// - NITHYA KOGANTI (24WH1A6642)
+// - ALLA NAVYA SUSHMA SRI (24WH1A6634)
+// - THOTA SHIVASRI (24WH1A6640)
 //
 // Educational tool for learning page replacement algorithms
 

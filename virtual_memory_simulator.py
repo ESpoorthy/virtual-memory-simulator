@@ -7,10 +7,10 @@ Copyright (c) 2026 Team-10, BVRIT Hyderabad College of Engineering for Women
 Licensed under the MIT License - see LICENSE file for details.
 
 Team Members:
-- SAI SPOORTHY ETURU (24WH1A6633) - Team Lead & Core Developer
-- NITHYA KOGANTI (24WH1A6642) - Algorithm Implementation
-- ALLA NAVYA SUSHMA SRI (24WH1A6634) - Web Interface Design
-- THOTA SHIVASRI (24WH1A6640) - Testing & Documentation
+- SAI SPOORTHY ETURU (24WH1A6633)
+- NITHYA KOGANTI (24WH1A6642)
+- ALLA NAVYA SUSHMA SRI (24WH1A6634)
+- THOTA SHIVASRI (24WH1A6640)
 
 Educational tool for learning memory management concepts in Operating Systems.
 Uses only Python standard libraries for maximum compatibility.
@@ -555,10 +555,10 @@ def main():
         print(f"\n{'─' * 68}")
         print(f"   👥 Team-10 | BVRIT Hyderabad College of Engineering for Women")
         print(f"{'─' * 68}")
-        print(f"   24WH1A6633 - SAI SPOORTHY ETURU (Team Lead)")
-        print(f"   24WH1A6642 - NITHYA KOGANTI (Algorithm Implementation)")
-        print(f"   24WH1A6634 - ALLA NAVYA SUSHMA SRI (Web Interface)")
-        print(f"   24WH1A6640 - THOTA SHIVASRI (Testing & Documentation)")
+        print(f"   24WH1A6633 - SAI SPOORTHY ETURU")
+        print(f"   24WH1A6642 - NITHYA KOGANTI")
+        print(f"   24WH1A6634 - ALLA NAVYA SUSHMA SRI")
+        print(f"   24WH1A6640 - THOTA SHIVASRI")
         print(f"{'─' * 68}")
         
     except KeyboardInterrupt:
