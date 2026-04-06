@@ -264,3 +264,36 @@ This project is open source and available under the MIT License.
 🎓 **Educational Impact** • 💻 **Modern Technology** • 🚀 **Open Source**
 
 </div>
+
+---
+
+## 👥 Team
+
+<div align="center">
+
+### **Team-10**
+**BVRIT Hyderabad College of Engineering for Women**
+
+**Virtual Memory Simulator Project**
+
+</div>
+
+| Roll Number | Name | Role |
+|-------------|------|------|
+| **24WH1A6633** | **SAI SPOORTHY ETURU** | Team Lead & Core Developer |
+| **24WH1A6642** | **NITHYA KOGANTI** | Algorithm Implementation |
+| **24WH1A6634** | **ALLA NAVYA SUSHMA SRI** | Web Interface Design |
+| **24WH1A6640** | **THOTA SHIVASRI** | Testing & Documentation |
+
+<div align="center">
+
+**🎓 Academic Institution:** BVRIT Hyderabad College of Engineering for Women  
+**📚 Course:** Operating Systems  
+**🗓️ Academic Year:** 2024-25  
+**👩‍💻 Team:** Collaborative effort by passionate Computer Science students
+
+---
+
+*Dedicated to advancing Computer Science education through innovative learning tools*
+
+</div>

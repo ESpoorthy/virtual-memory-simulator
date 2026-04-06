@@ -1,8 +1,14 @@
 // Virtual Memory Simulator - JavaScript Implementation
 // Web-based interactive simulator for memory management concepts
 //
-// Copyright (c) 2026 Sai Spoorthy Eturu
+// Copyright (c) 2026 Team-10, BVRIT Hyderabad College of Engineering for Women
 // Licensed under the MIT License - see LICENSE file for details.
+//
+// Team Members:
+// - SAI SPOORTHY ETURU (24WH1A6633) - Team Lead & Core Developer
+// - NITHYA KOGANTI (24WH1A6642) - Algorithm Implementation
+// - ALLA NAVYA SUSHMA SRI (24WH1A6634) - Web Interface Design
+// - THOTA SHIVASRI (24WH1A6640) - Testing & Documentation
 //
 // Educational tool for learning page replacement algorithms
 

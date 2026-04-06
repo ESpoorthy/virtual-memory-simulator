@@ -1,10 +1,16 @@
 MIT License
 
-Copyright (c) 2026 Sai Spoorthy Eturu
+Copyright (c) 2026 Team-10, BVRIT Hyderabad College of Engineering for Women
 
 Virtual Memory Simulator - Educational Platform for Memory Management Algorithms
 A comprehensive tool for learning page replacement algorithms (FIFO, LRU, Optimal)
 with interactive web interface, advanced analysis tools, and educational content.
+
+Team Members:
+- SAI SPOORTHY ETURU (24WH1A6633) - Team Lead & Core Developer
+- NITHYA KOGANTI (24WH1A6642) - Algorithm Implementation
+- ALLA NAVYA SUSHMA SRI (24WH1A6634) - Web Interface Design  
+- THOTA SHIVASRI (24WH1A6640) - Testing & Documentation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,3 +43,7 @@ This project includes:
 Educational Use: This software is specifically designed for educational purposes
 in Operating Systems courses and Computer Science education. Feel free to use,
 modify, and distribute for academic and learning purposes.
+
+Academic Institution: BVRIT Hyderabad College of Engineering for Women
+Course: Operating Systems (2024-25)
+Team: Collaborative effort by passionate Computer Science students
