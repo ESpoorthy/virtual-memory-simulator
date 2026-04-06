@@ -289,7 +289,7 @@ This project is open source and available under the MIT License.
 
 **🎓 Academic Institution:** BVRIT Hyderabad College of Engineering for Women  
 **📚 Course:** Operating Systems  
-**🗓️ Academic Year:** 2024-25  
+**🗓️ Academic Year:** 2025-26  
 **👩‍💻 Team:** Collaborative effort by passionate Computer Science students
 
 ---
