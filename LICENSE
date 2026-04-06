@@ -2,6 +2,10 @@ MIT License
 
 Copyright (c) 2026 Sai Spoorthy Eturu
 
+Virtual Memory Simulator - Educational Platform for Memory Management Algorithms
+A comprehensive tool for learning page replacement algorithms (FIFO, LRU, Optimal)
+with interactive web interface, advanced analysis tools, and educational content.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +23,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This project includes:
+- Virtual Memory Simulator (CLI and Web versions)
+- Interactive Educational Demo
+- Comprehensive Test Suite
+- Performance Analysis Tools
+- Modern Web Interface with Animations
+- Educational Content and Documentation
+
+Educational Use: This software is specifically designed for educational purposes
+in Operating Systems courses and Computer Science education. Feel free to use,
+modify, and distribute for academic and learning purposes.

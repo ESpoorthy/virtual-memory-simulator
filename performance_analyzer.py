@@ -2,6 +2,11 @@
 """
 Performance Analyzer for Virtual Memory Simulator
 Advanced analysis and visualization of algorithm performance
+
+Copyright (c) 2026 Sai Spoorthy Eturu
+Licensed under the MIT License - see LICENSE file for details.
+
+Part of the Virtual Memory Simulator educational platform.
 """
 
 import time

@@ -2,6 +2,11 @@
 """
 Configuration file for Virtual Memory Simulator
 Centralized settings for easy customization
+
+Copyright (c) 2026 Sai Spoorthy Eturu
+Licensed under the MIT License - see LICENSE file for details.
+
+Part of the Virtual Memory Simulator educational platform.
 """
 
 # Web Server Configuration

@@ -1,5 +1,10 @@
 // Virtual Memory Simulator - JavaScript Implementation
 // Web-based interactive simulator for memory management concepts
+//
+// Copyright (c) 2026 Sai Spoorthy Eturu
+// Licensed under the MIT License - see LICENSE file for details.
+//
+// Educational tool for learning page replacement algorithms
 
 // Tab management
 function showTab(tabName) {

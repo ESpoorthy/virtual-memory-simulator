@@ -2,7 +2,12 @@
 """
 Virtual Memory Simulator
 A CLI-based page replacement algorithm simulator implementing FIFO, LRU, and Optimal algorithms.
-Uses only Python standard libraries.
+
+Copyright (c) 2026 Sai Spoorthy Eturu
+Licensed under the MIT License - see LICENSE file for details.
+
+Educational tool for learning memory management concepts in Operating Systems.
+Uses only Python standard libraries for maximum compatibility.
 """
 
 import sys

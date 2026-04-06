@@ -2,6 +2,11 @@
 """
 Comprehensive Test Suite for Virtual Memory Simulator
 Tests all page replacement algorithms with various scenarios and edge cases
+
+Copyright (c) 2026 Sai Spoorthy Eturu
+Licensed under the MIT License - see LICENSE file for details.
+
+Part of the Virtual Memory Simulator educational platform.
 """
 
 import sys

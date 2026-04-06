@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Simple web server to run the OS Simulator Suite web application.
+Simple web server to run the Virtual Memory Simulator web application.
+
+Copyright (c) 2026 Sai Spoorthy Eturu
+Licensed under the MIT License - see LICENSE file for details.
+
+Part of the Virtual Memory Simulator educational platform.
 """
 
 import http.server
