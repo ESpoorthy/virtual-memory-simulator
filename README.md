@@ -92,7 +92,7 @@ Each algorithm includes:
 - **Property Verification**: Stack property for LRU, optimality of Optimal
 - **Performance Benchmarks**: Execution time analysis
 
-## 📋 Sample Output
+## 📋 Output
 
 ### CLI Interface
 ```
@@ -151,6 +151,16 @@ WEB_STYLE_CONFIG = {
     'border_radius': '15px'
 }
 ```
+## 📋 Web Interface
+
+<img width="1792" height="1120" alt="Untitled 3" src="https://github.com/user-attachments/assets/83207187-d553-41d8-b470-d710d7b73a6b" />
+<img width="1792" height="1120" alt="Untitled 4" src="https://github.com/user-attachments/assets/2015d7e6-e15b-4e1e-9e48-87c5f0cad82d" />
+<img width="1792" height="1120" alt="Untitled 2" src="https://github.com/user-attachments/assets/f8acc901-5fd1-458d-864d-a9f1cbf250b2" />
+<img width="1792" height="1120" alt="Untitled 5" src="https://github.com/user-attachments/assets/4ce1e357-ea29-4a20-acec-95b72baa7011" />
+<img width="1792" height="1120" alt="Untitled 6" src="https://github.com/user-attachments/assets/35701036-6cbf-4162-9399-cd0315d616e4" />
+<img width="1792" height="1120" alt="Untitled 7" src="https://github.com/user-attachments/assets/63016f43-3711-46c3-984b-e0a498623e28" />
+<img width="1792" height="1120" alt="Untitled 8" src="https://github.com/user-attachments/assets/50e067ab-0289-4e82-a317-57da6b45209e" />
+
 
 ## 🧪 Testing & Validation
 
